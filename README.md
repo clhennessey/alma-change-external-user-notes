@@ -5,7 +5,7 @@ Presented at eCAUG conference, Thursday, July 2, 2020 (will link to recording an
 
 https://sites.google.com/view/ecaug/home
 
-Alma user notes cannot be deleted if they are marked as "external". 
+Alma user notes cannot be deleted or changed if they are marked as "external". 
 
 This is a quick Python program to change the notes from external to internal so you can delete or change them. 
 
