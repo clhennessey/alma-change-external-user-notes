@@ -31,3 +31,7 @@ Requirements: Python 3.x, modules: <i>requests, xmltodict</i>
 Questions, comments, changes?
 Contact Christina Hennessey, Systems Librarian at California State University, Northridge
 christina.hennessey@csun.edu
+
+![Program with ID entered](/program_with_ID_entered.png)
+
+![Program complete](/program_complete.png)
