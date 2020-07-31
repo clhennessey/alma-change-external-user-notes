@@ -1,9 +1,11 @@
 # alma-change-external-user-notes
 <b>Convert Alma user notes from external to internal</b>
 
-Presented at eCAUG conference, Thursday, July 2, 2020 (will link to recording and slides when they are available)
+Presented at eCAUG conference, Thursday, July 2, 2020. 
 
-https://sites.google.com/view/ecaug/home
+Slides & recording here: https://drive.google.com/drive/folders/150wsKMH5LBb9hiceCrvr_iMAuNqD7DiZ 
+
+Conference sessions & descriptions: https://sites.google.com/view/ecaug/home
 
 Alma user notes cannot be deleted or changed if they are marked as "external". 
 
