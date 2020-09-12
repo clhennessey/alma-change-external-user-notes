@@ -9,7 +9,7 @@ Conference sessions & descriptions: https://sites.google.com/view/ecaug/home
 
 Alma user notes cannot be deleted or changed if they are marked as "external". 
 
-This is a quick Python program to change the notes from external to internal so you can delete or change them. 
+This is a quick Python program to change the notes from external to internal one by one so you can delete or change them. 
 
 Change "strings_to_search" variable to whatever strings you want to match on in the user note text,
 and those particular external notes will be turned into internal notes.
