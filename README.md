@@ -26,6 +26,8 @@ This was part of a longer program that does many things to an individual user re
 structure of the program. There are plenty of optional print statements in the program so you can check your
 user record changes while you use the program.
 
+If you would like a version of the program that uses an input file of IDs instead of inputting one IDs at a time, see my other program at: https://github.com/clhennessey/alma-change-external-user-notes-from-file
+
 This program is based on this code presented at ELUNA Developer's Day Workshop by Jeremy Hobbs,
 linked here: https://github.com/MrJeremyHobbs/ELUNA-2019-Dev-Days-Alma-Course 
 
